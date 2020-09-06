@@ -38,7 +38,7 @@ function handleCommand(messageInfo) {
 
 
 //bot registered 
-token = 'NzUwMjAzNzUzODMwOTQwNzIy.X03HsQ.hOUIKawlXZj0bTHfoG1s6twjSn0'
+token = 'token'
 client.login(token);
 
 
